@@ -26,7 +26,7 @@ SECRET_KEY = '3)ebq-a7fb%2!sei%7#75_^^u@vo^*rz5psyuspglk1vnzi9ox'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['oytbackend-wth83.ondigitalocean.app']
+ALLOWED_HOSTS = ['oytbackend-wth83.ondigitalocean.app','oytbackend2-uy2wb.ondigitalocean.app']
 
 
 
